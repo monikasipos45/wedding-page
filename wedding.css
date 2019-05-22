@@ -17,7 +17,7 @@ img {
 }
 
 body {
-  background: url('https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-background.png') repeat center;
+  background: url('assets/wedding-landing-background.png') repeat center;
   font-family: 'Libre Baskerville', serif;
   font-size: 1.125rem;
   line-height: 1.5;
@@ -64,7 +64,7 @@ a:hover {
 =============================*/
 
 .cover {
-  background: url('https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-cover.jpg') no-repeat 70% center/cover;
+  background: url('assets/wedding-landing-cover.jpg') no-repeat 70% center/cover;
   display: table;
   text-align: center;
   height: 100vh;
